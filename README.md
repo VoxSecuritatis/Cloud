@@ -23,7 +23,7 @@ This repository serves as a resource for exploring Cloud Computing through opera
 - AWS Polly (creation of audio files)
 - AWS Lambda
 - AWS S3 (for storage)
-- AWS Services - EC2 (for compute), S3 (for storage)
+- AWS EC2 (for compute)
 
 ### Projects
 | Project Name                                  | Description                |
