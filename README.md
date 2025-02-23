@@ -29,3 +29,4 @@ This repository serves as a resource for exploring Cloud Computing through opera
 | Project Name                                  | Description                |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/VoxSecuritatis/Project-AI-DocumentHandlingTextractPolly">Document Handling with Textract and Polly  | The implementation of document handling using AWS Textract and Polly to create an MP3 audio file from written text. |
+| <a href="https://github.com/VoxSecuritatis/Project-Cloud-ConnectingVPCs">Connecting Virtual Private Clouds (VPCs)   | The creation and testing of VPCs using EC2, routing tables, and networking. |
