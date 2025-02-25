@@ -30,3 +30,4 @@ This repository serves as a resource for exploring Cloud Computing through opera
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/VoxSecuritatis/Project-AI-DocumentHandlingTextractPolly">Document Handling with Textract and Polly  | The implementation of document handling using AWS Textract and Polly to create an MP3 audio file from written text. |
 | <a href="https://github.com/VoxSecuritatis/Project-Cloud-ConnectingVPCs">Connecting Virtual Private Clouds (VPCs)   | The creation and testing of VPCs using EC2, routing tables, and networking. |
+| <a href="https://github.com/VoxSecuritatis/Project-Cloud-BasicAuditAWSEnvironment">Conducting a basic audit of an AWS environment  | An audit using multiple AWS services:  EC2, VPC, IAM, CloudTrail, and CloudWatch. |
