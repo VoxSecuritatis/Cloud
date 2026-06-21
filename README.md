@@ -35,4 +35,4 @@ This repository serves as a resource for exploring Cloud Computing through opera
 
 ---
 
-© 2025 Brock Frary. All rights reserved.
+© 2025-2026 Brock Frary. All rights reserved.
